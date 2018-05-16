@@ -1,0 +1,46 @@
+
+
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	position: relative;
+}
+.noPadding {
+	padding: 0;
+	background-color: #e3b0ea75;
+}
+.container-fluid{
+	width:auto;
+}
+
+.bgColor
+{
+	background-color:#78c39e70;
+}
+small {
+	color:black;
+}
+h5 {
+	font-style:italic;
+	font-weight: bold;
+}
+
+.list-group-item {
+	background-color: #cccccc3b;
+}
+.bg-color {
+	background-color: #d6a9a9;
+	padding:1vh;
+}
+.bg-user-color {
+	background-color: #2b6fd466;
+	padding:1vh;
+}
+.text-left {
+	line-height:3rem;
+}
+.text-right {
+	line-height: 3rem;
+}
